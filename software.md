@@ -10,7 +10,7 @@ Es el "cerebro" de la tarjeta. Es un microchip que se encarga de realizar todos 
 
 La **VRAM** es la memoria dedicada y ultrarrápida que utiliza la GPU.
 
-* **Almacena:** Texturas de alta resolución, modelos 3D y el *buffer* de la imagen final.
+* **Almacena:** Texturas de alta resolución, modelos 3D y el buffer de la imagen final.
 * **Velocidad:** Es mucho más rápida que la RAM del sistema (DDR4 o DDR5) porque está optimizada para el acceso de la GPU.
 
 | Componente | Función Principal | Importancia en Gaming |
