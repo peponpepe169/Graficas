@@ -24,4 +24,4 @@ La **VRAM** es la memoria dedicada y ultrarrápida que utiliza la GPU.
 
 Las GPUs generan mucho calor debido a la intensidad de sus cálculos. El sistema de refrigeración es vital.
 
-[Volver a la Página Principal (Inicio)](../index.md)
+[Volver a la Página Principal (Inicio)](index.md)
