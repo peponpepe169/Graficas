@@ -12,7 +12,7 @@ Aunque tu CPU (procesador principal) puede manejar tareas gráficas básicas, la
 * **Rendimiento:** Es la responsable directa de la fluidez (tasa de fotogramas, o FPS) en los videojuegos.
 * **Tareas Específicas:** Ayuda a la CPU en tareas pesadas como la edición de video 4K o el diseño gráfico.
 
-> **¡Ojo!**
+
 > Una tarjeta gráfica integrada (iGPU, parte del procesador) es suficiente para tareas de oficina, pero una tarjeta gráfica dedicada (dGPU) es necesaria para el gaming o el trabajo profesional de diseño.
 
 ### Enlaces Útiles
