@@ -1,4 +1,9 @@
 site_name: Graficas
+
+docs_dir: 'md'
+
+site_dir: 'docs'
+
 nav:
   - Index: index.md
   - Software: software.md
