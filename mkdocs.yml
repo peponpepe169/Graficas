@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Graficas
+nav:
+  - Index: index.md
+  - Software: software.md
+  - Seccion 1:
+    - Subseccion 1: hardware/gpu.md
+    - Subseccion 2: hardware/transformacion.md
+  - Seccion 2:
+    - Subseccion 2.1: aplicaciones/uso.md
