@@ -4,11 +4,15 @@ docs_dir: 'md'
 
 site_dir: 'docs'
 
+theme: 
+  name: material
+  favicon: './img/favicon.ico'
+
 nav:
   - Index: index.md
   - Software: software.md
-  - Seccion 1:
+  - Hardware:
     - Subseccion 1: hardware/gpu.md
     - Subseccion 2: hardware/transformacion.md
-  - Seccion 2:
+  - Aplicaciones:
     - Subseccion 2.1: aplicaciones/uso.md

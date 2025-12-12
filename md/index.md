@@ -15,6 +15,9 @@ Aunque tu CPU (procesador principal) puede manejar tareas gráficas básicas, la
 
 > Una tarjeta gráfica integrada (iGPU, parte del procesador) es suficiente para tareas de oficina, pero una tarjeta gráfica dedicada (dGPU) es necesaria para el gaming o el trabajo profesional de diseño.
 
+
+![Imagen1](./img/grafica.png)
+
 ### Enlaces Útiles
 * **Revisar Componentes de tu PC:** [Comando de Sistema](software.md)
 * **Conexiones de Video:** [Ver Puertos](hardware/transformacion.md)
